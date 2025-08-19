@@ -14,9 +14,6 @@ A simple **Simon Says** memory game built using **HTML, CSS, and JavaScript**.
 - `index.css` → Styling for buttons and animations  
 - `index.js` → Game logic (sequence generation, score tracking, gameplay)
 
-## 🖼️ Demo
-![Game Screenshot](screenshot.png) <!-- (Optional: add screenshot if you take one) -->
-
 ## ⚡ Features
 - Random sequence generation
 - Score and High Score tracking
